@@ -321,7 +321,9 @@ button {
 }
 
 .banner_img {
-    width: 60%;
+    width: 78%;
+	padding-top: 35px;
+	padding-right: 45px;
     text-align: center;
     margin: 0 auto;
 }
@@ -426,7 +428,7 @@ button {
     font-size: 40px;
     color: #2c2c2c;
     font-weight: 600;
-    padding-top: 30px;
+    padding-top: 15px;
 }
 
 .ipsum_text {
@@ -634,7 +636,7 @@ figure:hover+span {
     float: left;
     font-size: 16px;
     color: #232323;
-    padding-top: 44px;
+    padding-top: 35px;
     margin: 0px;
 }
 
