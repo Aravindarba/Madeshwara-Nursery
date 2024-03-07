@@ -201,7 +201,7 @@ button {
 }
 
 .layout_padding {
-    padding-top: 100px;
+    padding-top: 80px;
     padding-bottom: 0px;
 }
 
@@ -280,6 +280,13 @@ button {
     width: 100%;
     float: left;
     border: 1px solid #000;
+    margin: 20px 0px;
+}
+
+.layout_border_upper {
+    width: 100%;
+    float: left;
+    border-top: 1px solid #000;
     margin: 20px 0px;
 }
 
@@ -662,12 +669,9 @@ figure:hover+span {
     background-color: #252525;
 }
 
-.blog_img {
-    width: 100%;
-    float: left;
+.blog{
+	bottom:20px:
 }
-
-
 /* blog section end */
 
 
@@ -1047,7 +1051,6 @@ p.dummy_text {
 
 .margin_bottom90 {
     margin-bottom: 90px;
-
 }
 
 
@@ -1090,4 +1093,8 @@ p.dummy_text {
 .youtube_button a:hover {
     color: #fefefd;
     background-color: #2c2c2c;
+}
+
+.blog_line{
+  border-top: 5px solid black;
 }
