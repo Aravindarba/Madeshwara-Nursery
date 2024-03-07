@@ -411,7 +411,7 @@ button {
 .about_taital {
     width: 100%;
     float: left;
-    font-size: 40px;
+    font-size: 35px;
     color: #2c2c2c;
     font-weight: 600;
     padding-top: 10px;
@@ -432,7 +432,7 @@ button {
 .fresh_taital {
     width: 100%;
     float: left;
-    font-size: 40px;
+    font-size: 30px;
     color: #2c2c2c;
     font-weight: 600;
     padding-top: 15px;
@@ -488,7 +488,7 @@ button {
 .vagetables_taital {
     width: 100%;
     float: left;
-    font-size: 40px;
+    font-size: 35px;
     color: #2c2c2c;
     font-weight: bold;
 }
